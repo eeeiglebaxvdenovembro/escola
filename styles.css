@@ -9,8 +9,21 @@ body {
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
-    font-size: 32px;
+    font-size: 48px;
     color: rgb(42, 122, 228);
+    display: flex;
+    padding-top: 20px;
+}
+
+.nome-texto {
+padding-bottom: 0px;
+padding-top: 20px;
+}
+
+.logo {
+    padding-left: 12px;
+    padding-top: 20px;
+    padding-bottom: 0px;
 }
 
 .chamada {
@@ -59,4 +72,43 @@ p {
 
 .categoria h2 {
     color: rgb(42, 122, 228);
+}
+
+.categoria2 {
+    border: 3px solid rgb(23, 3, 228);
+    display: flex;
+    margin: 5%;
+    background-color: rgb(23, 3, 44);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-left: 80px;
+    justify-content: center;
+    
+}
+
+.categoria2-doc {
+    border: 3px solid rgb(23, 3, 228);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.categoria2-projetos {
+    border: 3px solid rgb(23, 3, 228);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.categoria2-redessociais {
+    border: 3px solid rgb(23, 3, 228);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.link-branco {
+    color: rgb(226, 214, 214);
+}
+
+.texto-grande {
+    font-size: 40px;
 }
