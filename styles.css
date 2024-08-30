@@ -75,9 +75,9 @@ p {
 }
 
 .categoria2 {
-    border: 3px solid rgb(23, 3, 228);
+    \border: 3px solid rgb(23, 3, 228);
     display: flex;
-    margin: 5%;
+    margin-top: 50px;
     background-color: rgb(23, 3, 44);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -88,19 +88,19 @@ p {
 }
 
 .categoria2-doc {
-    border: 3px solid rgb(23, 3, 228);
+    \border: 3px solid rgb(23, 3, 228);
     padding-left: 5%;
     padding-right: 5%;
 }
 
 .categoria2-projetos {
-    border: 3px solid rgb(23, 3, 228);
+    \border: 3px solid rgb(23, 3, 228);
     padding-left: 5%;
     padding-right: 5%;
 }
 
 .categoria2-redessociais {
-    border: 3px solid rgb(23, 3, 228);
+    \border: 3px solid rgb(23, 3, 228);
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -111,4 +111,29 @@ p {
 
 .texto-grande {
     font-size: 40px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.contato p {
+    margin: 0;
+    font-size: 20px;
+    padding-right: 0%;
+    padding-left: 0%;
+    color: rgb(226, 214, 214);
+}
+
+.contato {
+    margin-left: auto;
+    text-align: right;
+}
+
+.texto-simples {
+    font-size: 15px;
+    text-align: justify;
 }
