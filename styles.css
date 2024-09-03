@@ -28,10 +28,10 @@ padding-top: 20px;
 
 .chamada {
     background: rgb(23, 3, 44);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    padding-right: 80px;
-    padding-left: 80px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
     display: flex;
     justify-content: center;
 }
@@ -57,7 +57,7 @@ p {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .categoria-videos img {
@@ -78,10 +78,10 @@ p {
     display: flex;
     margin-top: 50px;
     background-color: rgb(23, 3, 44);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    padding-right: 80px;
-    padding-left: 80px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
     justify-content: center;
     
 }
@@ -118,7 +118,7 @@ p {
 
 .contato p {
     margin: 0;
-    font-size: 16px;
+    font-size: 24px;
     padding-right: 0%;
     padding-left: 0%;
     color: rgb(226, 214, 214);
