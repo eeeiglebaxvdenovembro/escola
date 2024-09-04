@@ -144,3 +144,10 @@ p {
  padding-left: 5%;
  padding-right: 5%
 }
+
+.horario {
+    color: rgb(226, 214, 214);
+    justify-content: center;
+    font-size: 30px;
+    
+}
