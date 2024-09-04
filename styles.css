@@ -103,6 +103,8 @@ p {
 
 .link-branco {
     color: rgb(226, 214, 214);
+    justify-content: center;
+    
 }
 
 .texto-grande {
@@ -134,3 +136,11 @@ p {
     text-align: justify;
 }
 
+.agendas {  
+ display: flex;
+ text-align: justify;
+ align-items: center;
+ justify-content: center;
+ padding-left: 5%;
+ padding-right: 5%
+}
